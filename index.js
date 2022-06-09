@@ -1,7 +1,6 @@
 // Write your solution in this file!
 //Declare Global variables
 var customerName = 'bob'
-// let bestCustomer = "not bob";
 const leastFavoriteCustomer = "sarah"
 
 //Returns the customerName variable
